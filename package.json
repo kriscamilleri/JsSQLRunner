@@ -1,0 +1,16 @@
+{
+  "name": "jssqlrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kris",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^10.0.1",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.8"
+  }
+}
